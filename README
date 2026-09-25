@@ -1,1 +1,68 @@
 
+Potentiometer-Brightness-Control-Multimeter-Measurements
+Repository navigation
+Code
+Issues
+Potentiometer-Brightness-Control-Multimeter-Measurements
+/README (2).md
+kaviyachinnasamy07
+kaviyachinnasamy07
+4 days ago
+67 lines (43 loc) · 542 KB
+
+Preview
+
+Code
+
+Blame
+Potentiometer Brightness Control & Multimeter Measurements
+Description
+In this session, we learned how to control the brightness of an LED using a potentiometer. We also used a digital multimeter to measure voltage and resistance and to check the continuity of the circuit. This practical helped us understand basic electronic components, circuit connections, and measurement techniques.
+
+1. Problem Statement
+To control the brightness of an LED using a potentiometer and measure the electrical values of the circuit using a multimeter.
+
+2. Objectives
+To understand the working of a potentiometer.
+To control LED brightness by changing resistance.
+To learn basic multimeter measurements.
+To understand practical electronic circuit connections.
+3. Components
+LED
+Potentiometer
+Resistor
+Breadboard
+Connecting wires
+DC power supply
+Digital multimeter
+4. Circuit Diagram
+Power Supply → Potentiometer → Resistor → LED → Ground
+
+The potentiometer is used to vary the resistance and control the LED brightness.
+
+
+
+5. Working
+When the potentiometer knob is rotated, its resistance changes. This changes the current flowing through the LED.
+
+Higher resistance → Lower current → LED becomes dimmer.
+Lower resistance → Higher current → LED becomes brighter.
+The multimeter is used to measure voltage and resistance and to check the continuity of the circuit.
+
+
+
+6. Methodology
+Collected all the required components.
+
+Connected the LED, resistor, and potentiometer on the breadboard.
+Connected the circuit to the DC power supply.
+Checked the circuit connections.
+Rotated the potentiometer and observed the LED brightness.
+Used the multimeter to measure voltage and resistance.
+Recorded the observed values.
+7. Results
+The LED brightness was successfully controlled using the potentiometer.
+The resistance changed when the potentiometer was rotated.
+Voltage and resistance were measured using the multimeter.
+The circuit was successfully tested and verified.
+
